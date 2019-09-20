@@ -7,7 +7,7 @@ One-click deployment for Machine Learning Flask apps
 
 The deploy might be one click ... installing dependencies, making your AWS account, and ensuring your project is compatible with one-click is not. If you've already setup your machine and your project skip to the [quick-start guide](#quick-start-guide).
 
-Windows is not directly supported at this time. The [Ubuntu subsystem](https://helloacm.com/the-ubuntu-sub-system-new-bash-shell-in-windows-10/) for Windows 10 is recommended. 
+Windows is not directly supported at this time. The [Ubuntu subsystem](https://helloacm.com/the-ubuntu-sub-system-new-bash-shell-in-windows-10/) for Windows 10 is recommended.  
 
 ### AWS Setup
 
